@@ -1,11 +1,11 @@
 // PROJECT  :RPN Calculator
-// PURPOSE  :To calculate equations
+// PURPOSE  :To calculate equations in postfix
 // COURSE   :ICS3U-E2
 // AUTHOR   :C. D'Arcy
-// DATE     :2025 04 14
+// DATE     :2025 04 21
 // MCU      :328P (Nano)
-// STATUS   :Not Working
-// REFERENCE:
+// STATUS   :Working
+// REFERENCE: http://darcy.rsgc.on.ca/ACES/TEI3M/Tasks.html#RPN
 
 #include <LiquidCrystal.h>
 #include "Stack.h"
